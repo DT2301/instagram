@@ -1,0 +1,92 @@
+* {
+  font-family: "Poppins", sans-serif;
+  font-family: "Roboto", sans-serif;
+  text-decoration: none;
+  list-style: none;
+  color: black;
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  display: flex;
+}
+
+.logo{
+  font-family: Bulgatti;
+  font-weight: 700;
+  font-size: 2rem;
+  margin: 10px;
+}
+
+.main-header{
+  padding-left: 30px;
+  width: 245px;
+  height: 100vh;
+  /* border-right: 0.05px solid grey; */
+  box-shadow: -1px -3px 3px 1px grey;
+
+}
+
+.main-nav li{
+  padding:  1rem;
+  margin-left: 1.5rem ; 
+}
+
+.main-content{
+  display: flex;
+}
+
+.content{
+  
+  width: 80vw;
+  height: 100vh;
+}
+
+.story-section ul{
+  display: flex;
+  width: 45%;
+  height: 100px;
+}
+
+.i1{
+  background-image: url(./image/1.jpg);
+}
+
+.i2{
+  background-image: url(./image/2.jpg);
+}
+
+.i3{
+  background-image: url(./image/3.jpg);
+}
+
+
+.i4{
+  background-image: url(./image/4.jpg);
+}
+
+
+.i5{
+  background-image: url(./image/5.jpg);
+}
+
+
+.i6{
+  background-image: url(./image/6.jpg);
+}
+
+
+.i7{
+  background-image: url(./image/7.jpg);
+}
+
+.image{
+  width: 1rem;
+  height: 1rem;
+  background-size: cover;
+}
+
+.suggestion-section{
+  width: 10vw;
+}

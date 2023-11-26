@@ -1,0 +1,16 @@
+* {
+  font-family: "Poppins", sans-serif;
+  font-family: "Roboto", sans-serif;
+  text-decoration: none;
+  list-style: none;
+  color: black;
+}
+
+body{
+  display: flex;
+}
+
+.main-header{
+
+}
+

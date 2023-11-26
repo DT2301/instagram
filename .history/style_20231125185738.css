@@ -1,0 +1,28 @@
+* {
+  font-family: "Poppins", sans-serif;
+  font-family: "Roboto", sans-serif;
+  text-decoration: none;
+  list-style: none;
+  color: black;
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  display: flex;
+}
+
+.logo{
+  font-family: Bulgatti;
+  font-weight: 500;
+  font-size: 3rem;
+}
+
+.main-header{
+  width: 245px;
+  height: 100vh;
+  /* border-right: 0.05px solid grey; */
+  box-shadow: -1px -3px 3px 1px grey;
+
+}
+
